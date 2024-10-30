@@ -1,0 +1,1 @@
+In this project ill be building a birthday remainder app which displays the birthdays of the people in the list and then the total amount of birthdays available.This project makes excessive use of the useState hook in React and also a button to remove touring locations that youre not interested in
