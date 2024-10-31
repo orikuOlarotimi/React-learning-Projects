@@ -1,0 +1,1 @@
+In this project ill be building a review forum where a user can see the different reviews made by people and buttons to switch between reviews and also a surprise button to randomly select  a review. In this project I learnt how to apply conditional statements in react.
