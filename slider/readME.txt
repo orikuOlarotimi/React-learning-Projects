@@ -1,0 +1,1 @@
+In this project Ill be making  a slider of reviews made by people to a user. This project makes use of useState, useState and useInterval.
