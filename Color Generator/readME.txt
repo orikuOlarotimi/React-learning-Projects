@@ -1,0 +1,1 @@
+In this project Ill be working with forms to generate a list of colors given as input by the user
