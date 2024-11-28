@@ -1,0 +1,1 @@
+In this project Ill be building a sidebar in react and a center button to practice useContext in react
